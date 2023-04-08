@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main >
         <div className="md:container md:mx-auto">
-          <div className='md:my-auto'></div>
+          <div className='md:my-auto'>Login goes here</div>
         </div>
       </main>
     </>
